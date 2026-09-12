@@ -1,0 +1,9 @@
+﻿# NetBeans specific
+**/build/
+**/dist/
+**/nbproject/private/
+**/*.class
+
+# Windows
+Thumbs.db
+desktop.ini
